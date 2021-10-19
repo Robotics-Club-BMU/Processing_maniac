@@ -1,8 +1,6 @@
-![img a](https://socialify.git.ci/Robotics-Club-BMU/Processing_maniac/image?language=1&owner=1&theme=Light)
-
 # Processing - How to Make the most out of it
 
-![img 1](https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg)
+<img src ="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" width ="350/">
 
 ## **An Overview**
 

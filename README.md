@@ -24,6 +24,6 @@ ___
 
 Sr. No.                    |   Name                    |       Link
 :-------------------------:|:-------------------------:|:-------------------------:
-**.**                 | **.**                  |                  **.**
-**.**                 | **.**                  |                  **.**
-**.**                 | **.**                  |                  **.**
+**1.**                 | **Projects**                  |                  **[Projects](https://github.com/Robotics-Club-BMU/Processing_maniac/tree/main/Projects)**
+**2.**                 | **Scripts**                  |                  **[Scripts](https://github.com/Robotics-Club-BMU/Processing_maniac/tree/main/Scripts)**
+**3.**                 | **Theory**                  |                  **[Theory](https://github.com/Robotics-Club-BMU/Processing_maniac/tree/main/Theory)**

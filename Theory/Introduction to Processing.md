@@ -1,4 +1,4 @@
-![img a](https://socialify.git.ci/Robotics-Club-BMU/Processing_maniac/image?description=1&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![img a](https://socialify.git.ci/Robotics-Club-BMU/Processing_maniac/image?language=1&owner=1&theme=Light)
 
 # Processing - How to Make the most out of it
 

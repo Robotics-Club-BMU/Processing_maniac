@@ -3,7 +3,7 @@
 
 - ## setup() 
   - used to set the size of the desktop on which output would be displayed
-- ##size()
+- ## size()
   - specifies the width & height of the window 
 - ## draw()
   - function used to draw shapes

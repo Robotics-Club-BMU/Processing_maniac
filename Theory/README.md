@@ -9,8 +9,8 @@ This directory will consist of all the article related to processing and users c
 
 | S no |Title | Link | 
 | :---: |:----: | :---: | 
-| 1 |Introduction to Processing | [link](https://github.com/Robotics-Club-BMU/Processing_maniac/blob/main/Theory/Introduction%20to%20Processing.md)|
-
+| 1. |Introduction to Processing | [link](https://github.com/Robotics-Club-BMU/Processing_maniac/blob/main/Theory/Introduction%20to%20Processing.md)|
+| 2. |Installation Guide | [link](https://github.com/Robotics-Club-BMU/Processing_maniac/tree/main/Theory/Installation/Installation.md)|
 
 
 
